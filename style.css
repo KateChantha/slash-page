@@ -27,7 +27,7 @@ body {
   position: absolute;
   width: 193px;
   height: 47.64px;
-  left: 221px;
+  left: 201px;  
   top: 50.25px;
 }
 
@@ -35,7 +35,7 @@ body {
   position: absolute;
   width: 458px;
   height: 135px;
-  left: 221px;
+  left: 201px;
   top: 236px;
 
   font-style: normal;
@@ -48,7 +48,7 @@ body {
   position: absolute;
   width: 394px;
   height: 96px;
-  left: 221px;
+  left: 201px;
   top: 403px;
 
   font-style: normal;
@@ -61,7 +61,7 @@ body {
   position: absolute;
   width: 138.44px;
   height: 46.28px;
-  left: 221px;
+  left: 201px;
   top: 531px;
 }
 
@@ -69,7 +69,7 @@ body {
   position: absolute;
   width: 156.19px;
   height: 46.28px;
-  left: 381.81px;
+  left: 361.81px;
   top: 531px;
 }
 
@@ -77,7 +77,7 @@ body {
   position: absolute;
   width: 535.72px;
   height: 309.27px;
-  left: 683.28px;
+  left: 663.28px;
   top: 229.73px;
 }
 
@@ -88,7 +88,7 @@ body {
 .profile-img {
   position: absolute;
   height: 444px;
-  left: 737px;
+  left: 717px;
   right: 479px;
   top: 686px;
 }
@@ -96,7 +96,7 @@ body {
 .orders-img {
   position: absolute;
   height: 470px;
-  left: 479px;
+  left: 459px;
   right: 737px;
   top: 913px;
 }
@@ -105,14 +105,14 @@ body {
   position: absolute;
   height: 470px;
   left: 995px;
-  right: 221px;
+  right: 201px;
   top: 908px;
 }
 
 .cart-img {
   position: absolute;
   height: 222px;
-  left: 221px;
+  left: 201px;
   right: 995px;
   top: 1157px;
 }
@@ -120,7 +120,7 @@ body {
 .product-img {
   position: absolute;
   height: 222px;
-  left: 737px;
+  left: 717px;
   right: 479px;
   top: 1157px;
 }
@@ -128,7 +128,7 @@ body {
 /* Background Toggles */
 .background-toggles {
   position: absolute;
-  right: 150px;
+  right: 300px;
   top: 70px;
   display: flex;
 }
@@ -160,5 +160,4 @@ body {
   background: #8e9eab;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to bottom, #eef2f3, #8e9eab);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to bottom, #eef2f3, #8e9eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
 }
